@@ -1,3 +1,1 @@
 # HideTabContent
-
-Hocus-pokus
